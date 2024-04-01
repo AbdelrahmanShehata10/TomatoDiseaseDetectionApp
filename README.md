@@ -11,6 +11,7 @@ Installation
 To install the application, follow these steps:
 
 Clone the repository to your local machine:
+
 1-git clone https://github.com/AbdelrahmanShehata10/TomatoDiseaseDetectionApp
 2-Navigate to the project directory
 3-flutter pub get
